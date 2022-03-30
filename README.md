@@ -7,7 +7,7 @@
 
 ## I'm a Developer in progress!!
 
-- 🌱 I'm currently doing <b>#TodasEmTech</b> bootcamp at <a href="https://reprograma.com.br/">{Reprograma}<a/>
+- 🌱 I'm currently doing #TodasEmTech bootcamp at <a href="https://reprograma.com.br/">{Reprograma}</a>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about back-end tools
 - ⚡ Fun fact: I love reading and yoga! 
