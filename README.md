@@ -5,12 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiannegri&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## I'm a Developer in progress!!
+## Developer in progress...
 
 - 🌱 I'm currently doing #TodasEmTech bootcamp at <a href="https://reprograma.com.br/">{Reprograma}</a>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about back-end tools
-- ⚡ Fun fact: I love reading and yoga! 
+- ⚡ Fun fact: I love learning new things!
 
 ### Connect with me:
 
