@@ -7,10 +7,8 @@
 
 ## Developer in progress...
 
-- 🌱 I'm currently doing #TodasEmTech bootcamp at <a href="https://reprograma.com.br/">{Reprograma}</a>
-- 🌱 I'm currently working at <a>Tag Center</a> as a trainee in front-end development!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about front-end tools
+- 🥅 2022 Goals: Learn more about front-end and back-end tools
 
 ### Connect with me:
 
