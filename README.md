@@ -8,7 +8,6 @@
 ## Developer in progress...
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about front-end and back-end tools
 
 ### Connect with me:
 
